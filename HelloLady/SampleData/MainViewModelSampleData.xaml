@@ -1,0 +1,10 @@
+﻿<vm:DataModel
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:vm="clr-namespace:HelloLady.ViewModels">
+   
+    <vm:DataModel.MyItems>
+       
+    </vm:DataModel.MyItems>
+
+</vm:DataModel>

@@ -1,0 +1,40 @@
+C:\Users\David\Documents\Visual Studio 2012\Projects\HelloLady\HelloLady\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\David\Documents\Visual Studio 2012\Projects\HelloLady\HelloLady\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\David\Documents\Visual Studio 2012\Projects\HelloLady\HelloLady\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\David\Documents\Visual Studio 2012\Projects\HelloLady\HelloLady\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\David\Documents\Visual Studio 2012\Projects\HelloLady\HelloLady\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\David\Documents\Visual Studio 2012\Projects\HelloLady\HelloLady\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\David\Documents\Visual Studio 2012\Projects\HelloLady\HelloLady\Bin\Debug\HelloLady.dll
+C:\Users\David\Documents\Visual Studio 2012\Projects\HelloLady\HelloLady\Bin\Debug\HelloLady.pdb
+C:\Users\David\Documents\Visual Studio 2012\Projects\HelloLady\HelloLady\Bin\Debug\AppManifest.xaml
+C:\Users\David\Documents\Visual Studio 2012\Projects\HelloLady\HelloLady\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\David\Documents\Visual Studio 2012\Projects\HelloLady\HelloLady\Bin\Debug\HelloLady_Debug_AnyCPU.xap
+C:\Users\David\Documents\Visual Studio 2012\Projects\HelloLady\HelloLady\obj\Debug\App.g.cs
+C:\Users\David\Documents\Visual Studio 2012\Projects\HelloLady\HelloLady\obj\Debug\DetailsPage.g.cs
+C:\Users\David\Documents\Visual Studio 2012\Projects\HelloLady\HelloLady\obj\Debug\MainPage.g.cs
+C:\Users\David\Documents\Visual Studio 2012\Projects\HelloLady\HelloLady\obj\Debug\HelloLady.g.resources
+C:\Users\David\Documents\Visual Studio 2012\Projects\HelloLady\HelloLady\obj\Debug\HelloLady.Resources.AppResources.resources
+C:\Users\David\Documents\Visual Studio 2012\Projects\HelloLady\HelloLady\obj\Debug\HelloLady.csproj.GenerateResource.Cache
+C:\Users\David\Documents\Visual Studio 2012\Projects\HelloLady\HelloLady\obj\Debug\HelloLady.dll
+C:\Users\David\Documents\Visual Studio 2012\Projects\HelloLady\HelloLady\obj\Debug\HelloLady.pdb
+C:\Users\David\Documents\Visual Studio 2012\Projects\HelloLady\HelloLady\obj\Debug\XapCacheFile.xml
+C:\Users\david\Documents\GitHub\HelloLady\HelloLady\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\david\Documents\GitHub\HelloLady\HelloLady\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\david\Documents\GitHub\HelloLady\HelloLady\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\david\Documents\GitHub\HelloLady\HelloLady\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\david\Documents\GitHub\HelloLady\HelloLady\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\david\Documents\GitHub\HelloLady\HelloLady\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\david\Documents\GitHub\HelloLady\HelloLady\Bin\Debug\HelloLady.dll
+C:\Users\david\Documents\GitHub\HelloLady\HelloLady\Bin\Debug\HelloLady.pdb
+C:\Users\david\Documents\GitHub\HelloLady\HelloLady\Bin\Debug\AppManifest.xaml
+C:\Users\david\Documents\GitHub\HelloLady\HelloLady\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\david\Documents\GitHub\HelloLady\HelloLady\Bin\Debug\HelloLady_Debug_AnyCPU.xap
+C:\Users\david\Documents\GitHub\HelloLady\HelloLady\obj\Debug\App.g.cs
+C:\Users\david\Documents\GitHub\HelloLady\HelloLady\obj\Debug\MainPage.g.cs
+C:\Users\david\Documents\GitHub\HelloLady\HelloLady\obj\Debug\HelloLady.g.resources
+C:\Users\david\Documents\GitHub\HelloLady\HelloLady\obj\Debug\HelloLady.Resources.AppResources.resources
+C:\Users\david\Documents\GitHub\HelloLady\HelloLady\obj\Debug\HelloLady.csproj.GenerateResource.Cache
+C:\Users\david\Documents\GitHub\HelloLady\HelloLady\obj\Debug\HelloLady.dll
+C:\Users\david\Documents\GitHub\HelloLady\HelloLady\obj\Debug\HelloLady.pdb
+C:\Users\david\Documents\GitHub\HelloLady\HelloLady\obj\Debug\XapCacheFile.xml
+C:\Users\david\Documents\GitHub\HelloLady\HelloLady\obj\Debug\Entry.g.cs

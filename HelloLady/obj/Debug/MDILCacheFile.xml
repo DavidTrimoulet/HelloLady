@@ -1,0 +1,19 @@
+﻿<xapCache source="C:\Users\David\Documents\GitHub\HelloLady\HelloLady\Bin\Debug\HelloLady_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="31/07/2014 11:12:46">
+  <file source="C:\Users\David\Documents\GitHub\HelloLady\HelloLady\obj\Debug\HelloLady.dll" archivePath="HelloLady.dll" lastWriteTime="31/07/2014 11:12:46" />
+  <file source="C:\Users\David\Documents\GitHub\HelloLady\HelloLady\Resources\Site.xml" archivePath="Resources\Site.xml" lastWriteTime="31/07/2014 11:03:32" />
+  <file source="C:\Users\David\Documents\GitHub\HelloLady\HelloLady\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="20/06/2014 21:17:56" />
+  <file source="C:\Users\David\Documents\GitHub\HelloLady\HelloLady\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="20/06/2014 21:17:56" />
+  <file source="C:\Users\David\Documents\GitHub\HelloLady\HelloLady\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="20/06/2014 21:17:56" />
+  <file source="C:\Users\David\Documents\GitHub\HelloLady\HelloLady\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="20/06/2014 21:17:56" />
+  <file source="C:\Users\David\Documents\GitHub\HelloLady\HelloLady\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="20/06/2014 21:17:56" />
+  <file source="C:\Users\David\Documents\GitHub\HelloLady\HelloLady\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="22/06/2014 22:48:15" />
+  <file source="C:\Users\David\Documents\GitHub\HelloLady\HelloLady\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="20/06/2014 21:17:56" />
+  <file source="C:\Users\David\Documents\GitHub\HelloLady\HelloLady\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="20/06/2014 21:17:56" />
+  <file source="C:\Users\David\Documents\GitHub\HelloLady\HelloLady\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="20/06/2014 21:17:56" />
+  <file source="C:\Users\David\Documents\GitHub\HelloLady\HelloLady\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="20/06/2014 21:17:56" />
+  <file source="C:\Users\David\Documents\GitHub\HelloLady\HelloLady\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="20/06/2014 21:17:56" />
+  <file source="C:\Users\David\Documents\GitHub\HelloLady\HelloLady\Bin\Debug\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="20/06/2014 21:17:56" />
+  <file source="C:\Users\David\Documents\GitHub\HelloLady\HelloLady\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="20/06/2014 21:17:56" />
+  <file source="C:\Users\David\Documents\GitHub\HelloLady\HelloLady\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="20/06/2014 21:17:56" />
+  <file source="C:\Users\David\Documents\GitHub\HelloLady\HelloLady\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="22/06/2014 23:23:48" />
+</xapCache>
